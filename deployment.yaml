@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: dotnetsample-container
-        image: hasanalperen/dotnetsample:22
+        image: hasanalperen/dotnetsample:23
         ports:
         - containerPort: 80
 
